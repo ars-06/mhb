@@ -111,3 +111,14 @@ a {
 .article:hover {
     color: darkseagreen;
 }
+
+#imarole{
+    transition:transform .2s;
+    border:10px solid #AAAAAA;
+}
+
+#imarole:hover{
+    transform: scale(0.9);
+}
+
+
